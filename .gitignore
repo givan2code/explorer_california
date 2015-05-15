@@ -1,0 +1,9 @@
+# my first ignore list. YAY!
+ignoreme.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+*.psd
+ 
