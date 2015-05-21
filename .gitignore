@@ -1,5 +1,7 @@
 # my first ignore list. YAY!
 ignoreme.txt
+tempfile2.txt
+
 .DS_Store
 *.zip
 *.gz
